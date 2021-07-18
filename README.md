@@ -1,11 +1,11 @@
 ### Hi there, I'm Rafael Leal. 👋
 
 
-- I'm currently working as freelancer, and looking for a full-time job.
-- I'm currently learning Javascript and Advanced CSS.
-- Open source enthusiast.
-- 2021 Goals: Learn Express.js and React.js.
-- Fun facts: I love to play tennis and games.
+- :computer: I'm currently working as freelancer, and looking for a full-time job.
+- :mortar_board: I'm currently learning Javascript and Advanced CSS.
+- :unlock: Open source enthusiast.
+- :trophy: 2021 Goals: Learn Express.js and React.js.
+- :video_game: Fun facts: I love to play tennis and games.
 
 ## Languages and Tools
 
