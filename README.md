@@ -2,10 +2,10 @@
 
 
 - :computer: I'm currently working as freelancer, and looking for a full-time job.
-- :mortar_board: I'm currently learning Javascript and Advanced CSS.
+- :mortar_board: I'm currently learning Vue.js and PHP.
 - :unlock: Open source enthusiast.
-- :trophy: 2021 Goals: Learn Node.js and React.js.
-- :video_game: Fun facts: I love to play tennis and games.
+- :trophy: 2022 Goals: Learn Laravel.
+- :video_game: Fun facts: My dream is to teach tecnology for people that cant afford pay.
 
 ## Languages and Tools
 
@@ -16,3 +16,5 @@
 <img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">
+<img align="left" alt="vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
