@@ -2,9 +2,9 @@
 
 
 - :computer: I'm currently working as freelancer, and looking for a full-time job.
-- :mortar_board: I'm currently learning Vue.js and PHP.
+- :mortar_board: I'm currently learning React and Node.js.
 - :unlock: Open source enthusiast.
-- :trophy: 2022 Goals: Learn Laravel.
+- :trophy: 2022 Goals: Learn Nextjs.
 - :video_game: Fun facts: My dream is to teach tecnology for people that cant afford pay.
 
 ## Languages and Tools
